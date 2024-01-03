@@ -1,0 +1,45 @@
+
+
+.container {
+
+
+
+    }
+
+.mainpage{
+
+    display: flex;
+ 
+
+}
+
+.carousel-item, .carousel-item-next, .carousel-item-prev {
+
+z-index: 10;
+
+
+}
+
+.carousel-inner{
+ 
+margin-top: 10vh;
+margin-left: 2.5vw;
+
+   
+
+
+}
+
+.container-fluid {
+
+    background-color: rgb(12, 158, 32);
+ 
+
+
+}
+
+.carousel-item.active{
+
+z-index: 0;
+
+}
